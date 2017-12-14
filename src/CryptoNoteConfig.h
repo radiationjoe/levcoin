@@ -73,7 +73,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 //TODO Put here the name of your currency
-const char     CRYPTONOTE_NAME[]                             = "levcoin";
+const char     CRYPTONOTE_NAME[]                             = "lcn2017";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001a1f1d0d899e707029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121012be3d624eb9c51f91825c7fdb0752b24a8e210d163a5c7610286f4ff75929035";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
