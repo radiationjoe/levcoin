@@ -39,7 +39,7 @@ const uint64_t MINIMUM_FEE                                   = 100000;
 const uint64_t DEFAULT_DUST_THRESHOLD                        = MINIMUM_FEE;
 
 //TODO Define preferred block's target time
-const uint64_t DIFFICULTY_TARGET                             = 120; // seconds
+const uint64_t DIFFICULTY_TARGET                             = 93; // seconds
 const uint64_t EXPECTED_NUMBER_OF_BLOCKS_PER_DAY             = 24 * 60 * 60 / DIFFICULTY_TARGET;
 //TODO There are options to tune CryptoNote's difficulty retargeting function.
 //TODO We recommend not to change it.
@@ -109,6 +109,10 @@ const std::initializer_list<const char*> SEED_NODES = {
   "35.196.202.228:21724",
   "35.197.245.43:21724",
   "35.201.238.137:21724",
+  "beerle.com:21724",
+  "bipartia.com:21724",
+  "forexstops.com:21724",
+  "dobrisratings.com:21724",
 };
 
 struct CheckpointData {
