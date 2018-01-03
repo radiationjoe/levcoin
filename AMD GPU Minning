@@ -1,0 +1,6 @@
+NsGpuCNMiner.exe -xpool stratum+tcp://35.205.151.194:3333 -xwal bg32UcJNfgGXhyW1yBBKpAJLhRQezjB7e6Ya1TazaHdwMdtC2jJpx2yJcDeAHemzJnHQ617L7ujyogF6gn9JGUrj17sXKeYaz -epsw x 
+
+трябва ви claymore miner за АМД карти /  https://mega.nz/#F!e4JVEAIJ!l1iF4z10fMyJzY5-LnyC2A /
+с горната команда съответно със сменен адрес си пускате амд картата да копае вместо CPU-то 
+RX470 760 H/s с свалени тайминги като за копане на  етериум - 1200 ядро и 2000 памет
+i3 6100 50-52H/s
